@@ -506,6 +506,18 @@ body.active { overflow: hidden; }
   display: flex;
 }
 
+/* .hero .wrapper .strong {
+  position: absolute;
+  top: 0;
+  left: 50%; 
+  transform: translateX(-50%); 
+  width: 280px; 
+  font-size: 9.5rem; 
+  font-weight: inherit;
+  display: flex;
+} */
+
+
 .hero-text {
   font-size: var(--fs-10);
   font-weight: var(--fw-300);
